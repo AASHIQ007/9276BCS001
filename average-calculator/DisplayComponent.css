@@ -1,0 +1,17 @@
+.result-container {
+    margin-top: 20px;
+    text-align: left;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .result-container h2 {
+    color: #333;
+  }
+  
+  .result-container div {
+    margin-bottom: 10px;
+  }
+  
